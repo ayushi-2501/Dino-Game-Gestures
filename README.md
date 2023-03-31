@@ -1,1 +1,2 @@
 # Dino-Game-Gestures
+The so-famous Chrome’s game we all played i.e DinoGame. DinoGame basically used a single key from keyboard to jump over the hurdles. In this project i.e Dino-Game-Gestures instead of key, the finger is used to let dinosaur jump over the hurdles. Dino-Game-Gesturesl is developed using OpenCV and Mediapipe. Hand gestures which is one of the major application of mediapipe is used in this project as hand tracking module to track the finger and to control the game.
